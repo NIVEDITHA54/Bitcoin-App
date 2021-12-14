@@ -16,7 +16,7 @@ function CurrentPriceTable() {
 
   return (
     <div className="row justify-content-center mt-5">
-      <div className="col-xs-6">
+      <div className="table-responsive">
         <table class="table table-hover table-secondary">
           <thead>
             <tr>
