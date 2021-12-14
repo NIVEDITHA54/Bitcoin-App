@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BitcoinApp/static/css/main.237f18f7.chunk.css",
-    "main.js": "/BitcoinApp/static/js/main.b6886af0.chunk.js",
-    "main.js.map": "/BitcoinApp/static/js/main.b6886af0.chunk.js.map",
+    "main.js": "/BitcoinApp/static/js/main.58c9b2aa.chunk.js",
+    "main.js.map": "/BitcoinApp/static/js/main.58c9b2aa.chunk.js.map",
     "runtime-main.js": "/BitcoinApp/static/js/runtime-main.4a4c1d21.js",
     "runtime-main.js.map": "/BitcoinApp/static/js/runtime-main.4a4c1d21.js.map",
     "static/css/2.4659568d.chunk.css": "/BitcoinApp/static/css/2.4659568d.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4659568d.chunk.css",
     "static/js/2.71b3cf69.chunk.js",
     "static/css/main.237f18f7.chunk.css",
-    "static/js/main.b6886af0.chunk.js"
+    "static/js/main.58c9b2aa.chunk.js"
   ]
 }
